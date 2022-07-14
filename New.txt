@@ -1,1 +1,2 @@
-Hi, This is a new file.
+Hi, This is a new file. Modified
+This is for Newbranch
