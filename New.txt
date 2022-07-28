@@ -1,4 +1,4 @@
-Hi, This is a new file.
+Hi, This is a new file - today's change.
 A change in Testing
 Testing change 2
 Hi, This is a new file. Modified
